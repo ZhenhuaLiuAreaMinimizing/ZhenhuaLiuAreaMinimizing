@@ -2,17 +2,13 @@
 
 *Written on October 27, 2026.*
 
-These repositories collect AI-generated results on geometric measure theory questions that interest me. I have checked the arguments as carefully as my time and abilities allow, and I believe they are correct. At present, I do not intend to turn them into papers or post them on arXiv. Interested readers are welcome to write papers based on them.
+These repositories collect AI-generated results on geometric measure theory questions that interest me. I have checked the arguments as carefully as my time and abilities allow, and I believe they are correct. At present, I do not intend to turn them into papers or post them on arXiv.
 
 ## How my view changed
 
-When ChatGPT appeared in 2022, I was astonished but doubted that language models could do mathematics. My own thinking is largely visual: shapes wiggling in space, guided occasionally by calculations. I thought this was a distinctively human strength.
+When ChatGPT appeared in 2022, I was astonished but doubted that language models could do mathematics. MRI studies by Dehaene, Amalric, and their collaborators suggested that mathematical thinking does not primarily rely on the brain’s language systems. This resonated with my own experience. I think in geometric shapes with occasional guidance by calculations. Together, these findings and my own experience gave me confidence that this way of thinking was a distinctively human strength.
 
-After my son was born in 2024, I spent roughly a year away from academic work. When I returned, my early AI experiments reinforced my skepticism: it struggled even to distinguish mod 2 from integral area minimization.
-
-This changed when Zhihan Wang showed me how to use ChatGPT Pro in desktop work mode with carefully designed prompts. His examples included a solution to the exceptional $(3,5)$ case in my paper, which I had been unable to resolve. I thank Professors Hubert Bray and Frank Morgan for their encouragement, and Zhihan for his guidance.
-
-Over the past three weeks, I have used ChatGPT Astra extensively on problems that interest me. My rough success rate is one in three, counting meaningful partial progress. Some results have been extraordinary.
+This changed when Zhihan Wang showed me how to use ChatGPT Pro in desktop work mode with carefully designed prompts. His examples included a solution to the exceptional (3,5) case in my paper, which I had been unable to resolve. I thank Professors Hubert Bray and Frank Morgan for their encouragement, and Zhihan for his guidance.
 
 ## A personal reflection
 
