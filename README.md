@@ -3,6 +3,8 @@
 
 *Written on October 27, 2026; attribution clarified on October 31, 2026.*
 
+Research notes on area-minimizing currents and their singularities are collected in the [area-minimizing-research](https://github.com/area-minimizing-research) organization. Some repositories are private.
+
 
 These repositories collect reports on geometric measure theory developed through explorations with Astra Ultra under my guidance. I posed the questions, shared my mathematical beliefs and judgments, and suggested directions worth pursuing; the model developed detailed arguments and calculations in response. My role was broadly analogous to that of a Ph.D. advisor, with the degree of guidance varying across projects.
 
